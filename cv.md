@@ -1,4 +1,4 @@
 Работа с GIT
 MD разметка
-html css
+html css.
 rs app
