@@ -1,29 +1,20 @@
-<h1>Евгений Осипенко</h1>
+# Осипенко Евгений 
 
-<h2> Web-designer </h2>
+## Web-designer
+---
+## Contacts 
+### Phone: ___+7 996 840 7956___
+### E-mail: ___eugen.von.savoyen1736@gmail.com___
+### Telegram: ___@Eugen_von_Savoyen1736___
+---
+## About me
+My name is Evgeny, I am 20 years old and I am a freelancer. My specialty is design. In my works I use the editors Figma, Photoshop, Illustrator. I am own HTML and CSS code. For create websites, I use Tilda, Wordpress and Readymag platforms. I can say about myself that I do my work punctually, pay attention to details, and am able to competently plan the time to complete the task. I like to find something new for myself in every job.
 
-<h3> Контакты </h3>
+Remote work allows me to devote more time to my development, I spend my free time learning the basics of Frontend development. I am interested in developing web applications and websites. Development in this area is a promising direction, and there is also a large library of free sources that will help me develop in this area.
 
-<h4> 
-    <p style="font-weight:normal"> <b>Телефон: </b> +7 937 840-79-56    </p>
-</h4> 
-<h4>  
-    <p style="font-weight:normal"> <b>E-mail:</b> eugen.von.savoyen1736@gmail.com </p>
-</h4> 
-<h4>  
-    <p style="font-weight:normal"> <b>Telegram:</b> @Eugen_von_Savoyen1736    </p>
-</h4> 
-
-<H3> Кратко о себе </h3>
-<p> Меня зовут Евгений, мне 20 лет, и я фрилансер. Моя специальность - дизайн. В своих работах я использую редакторы Figma, Photoshop, Illustrator. Я владею HTML и CSS-кодом. Для создания веб-сайта я использую платформы Tilda, Wordpress и Readymag. О себе я могу сказать, что выполняю свою работу пунктуально, уделяю внимание деталям и умею грамотно планировать время для выполнения поставленной задачи. Мне нравится находить что-то новое для себя в каждой работе.</p>
-
-<p>Удаленная работа позволяет мне больше времени уделить своему развитию, свобдное время я трачу на обучение осноовам Frontend-разработки. Мне интересна разработка веб приложений и веб сайтов. Развитие в этой сфере является перспективным направлением, а также существует большая библиотека бесплатных источников, что поможет мне развиваться в этой сфере.</p>
-
-<h3> Skills
-    <ul type="circle" style="font-weight:normal">
-        <LI> HTML 5, CSS </LI>
-        <LI> GIT, GitHub </LI>
-        <LI> VSCode </LI>
-        <LI> Adobe Photoshop, Illustrator, Figma </LI>
-    </ul>
-</H3>
+---
+## Skills
+* HTML5, CSS
+* Java-script
+* WORDPRESS
+* Adobe Photoshop, Illustrator, Figma
